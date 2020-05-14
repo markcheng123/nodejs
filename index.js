@@ -1,3 +1,5 @@
 var fs = require('fs');
 
-console.log(666)
+console.log(fs.constants);
+
+console.log(12345);
